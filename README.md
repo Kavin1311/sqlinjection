@@ -65,7 +65,10 @@ Change Your IP Where the <192.168.43.145> Enter Your IP Addr
 - 
 ```
 ($query = “SELECT * FROM users WHERE username=’$_POST[username]’ AND password=’$_POST[password]’“;).
+
 ```
+
+<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/87859ff9-55c5-4c8e-b313-d5e18c4c12e7" />
 
 - For the username put “ganesh” or “anything” and for the password put (anything’ or ‘1’=’1) or (admin’ or ‘1’=’1) then try to log in, and you’ll be presented with an admin login page.
 
@@ -73,6 +76,7 @@ Change Your IP Where the <192.168.43.145> Enter Your IP Addr
 
 - Click “Login”. The logged in page will show as below:
 
+<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/82231a3f-9f00-49c9-9e18-c3d792ff48b0" />
 
 
 
@@ -91,6 +95,9 @@ Change Your IP Where the <192.168.43.145> Enter Your IP Addr
 
 ## Union-based SQL injection
 - UNION-based SQL injection assaults enable the analyzer to extract data from the database effectively. Since the “UNION” operator must be utilized if the two inquiries have precisely the same structure, the attacker must craft a “SELECT” statement like the first inquiry. we will be using the “User Info” page from Mutillidae to perform a Union-Based SQL injection attack. Go to “OWASP Top 10/A1 — Injection/SQLi — Extract-Data/User Info”
+
+- <img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/825b40b7-91fc-4984-bd3f-83675c6b5a91" />
+
 
 - After logging out, Now choose the menu as shown below:
 
